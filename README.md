@@ -4,7 +4,7 @@
 # pkg install git
 # pip2 install requests
 # pip2 install mechanize
-# git clone https://github.com/Dradkah77/Mahmoud4/edit/main/README.md
+# git clone https://github.com/Dradkah77/Mahmoud4
 # cd Mahmoud4
 # 
 
