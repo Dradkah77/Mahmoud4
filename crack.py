@@ -80,13 +80,13 @@ def login():
         print '█      ╚╩╝╚╝╚╝╚╝╚╝╩ ╩╚╝      █'
         print '█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█'
     
-        print '\x1b[1;91mLOGIN AKUN FB DULU BOSQU'
-        print 55 * '\x1b[1;97m═'
-        print '\x1b[1;91m[\xe2\x98\x86] \x1b[1;92mLOGIN AKUN FB \x1b[1;91m[\xe2\x98\x86]'
-        id = raw_input('\x1b[1;91m[+] \x1b[1;36mEmail|ID \x1b[1;91m:\x1b[1;92m ')
-        pwd = raw_input('\x1b[1;91m[+] \x1b[1;36mPassword \x1b[1;91m:\x1b[1;92m ')
-        tik()
-        try:
+        
+        
+
+
+        
+        
+        
             br.open('https://m.facebook.com')
         except mechanize.URLError:
             print '\n\x1b[1;91m[!] Tidak ada koneksi'
